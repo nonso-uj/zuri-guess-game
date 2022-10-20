@@ -1,5 +1,7 @@
 # Guess Game
 
+### Replit link: https://replit.com/@ChinonsoUdonne/zuri-guess-game#guess.js
+
 ##### The game prompts the user to guess a number within a certain range, if correct the user is awarded a point and promoted to the next stage but if wrong the user gets to try again. Happy Playing!
 
 
